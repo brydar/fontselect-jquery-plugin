@@ -188,6 +188,7 @@
       "Radley",
       "Raleway:100",
       "Redressed",
+      "Roboto",
       "Rock+Salt",
       "Rokkitt",
       "Ruslan+Display",
@@ -233,7 +234,7 @@
 
     var settings = {
       style: 'font-select',
-      placeholder: 'Select a font',
+      placeholder: 'Or select a Google font',
       lookahead: 2,
       api: 'http://fonts.googleapis.com/css?family='
     };

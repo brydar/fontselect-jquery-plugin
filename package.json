@@ -1,0 +1,24 @@
+{
+    "name": "fontselect-jquery-plugin",
+    "version": "1.0.0",
+    "title": "Add Google Font API for font selection",
+    "author": {
+        "name": "tommoor",
+        "url": "https://github.com/tommoor"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.4.3"
+    },
+    "description": "",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/tommoor/fontselect-jquery-plugin",
+    "files": [
+      "jquery.fontselect.js"
+    ]
+}
